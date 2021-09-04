@@ -114,4 +114,4 @@ async def hello(ctx):
 async def change_status():
     await client.change_presence(activity=discord.Game(choice(status)))
 
-client.run('ODgzMTM5NDEwMDc2NTA4MjUx.YTFlqw.kNkUvlQ8t7-HEcJzMiomm5zjPug')
+client.run('[REDACTED]')
